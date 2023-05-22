@@ -1,4 +1,5 @@
 // newer version
+// newer newer version
 
 var coinFlipper = function () {
   var randomInteger = Math.floor(Math.random() * 2);
